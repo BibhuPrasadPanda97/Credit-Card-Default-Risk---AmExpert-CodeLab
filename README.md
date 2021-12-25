@@ -1,8 +1,12 @@
 # Credit Card Default Risk - AmExpert CodeLab
  Competetion in HackerEarth conducted by American Express on HackerEarth Platform
 <br>
-## Description:
+
+## About the Problem and Task:
 Credit card Default risk is the chance that companies or individuals will not be able to return the money lent on time.
+
+### Task:
+We are given relevant information about the customers of a company. And we're required to build a Machine Learning Model that can predict if there will be CREDIT CARD DEFAULTERS.
 
 ### Data Description:
 ![DataDescription Table](https://user-images.githubusercontent.com/87663244/147392350-2509c716-1814-401b-83bd-fe7b311d5649.png)
